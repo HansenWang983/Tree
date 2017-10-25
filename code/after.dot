@@ -1,0 +1,19 @@
+digraph BST {
+    node [fontname="Arial"];
+    4 -> 5;
+    null6 [shape=point];
+    5 -> null6;
+    null7 [shape=point];
+    5 -> null7;
+    4 -> 3;
+    null8 [shape=point];
+    3 -> null8;
+    3 -> 1;
+    1 -> 2;
+    null9 [shape=point];
+    2 -> null9;
+    null10 [shape=point];
+    2 -> null10;
+    null11 [shape=point];
+    1 -> null11;
+}
