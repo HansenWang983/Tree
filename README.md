@@ -2,7 +2,7 @@
 
 # 实验5 二叉查找树的左右子树交换
 
-![IMG_4085](/Users/hansen/Desktop/16340232 王泽浩 实验5/assets/IMG_4085.JPG)
+![IMG_4085](assets/IMG_4085.JPG)
 
 
 
